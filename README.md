@@ -39,4 +39,3 @@ to come to conclusions on weather patterns based on Kolmorogorov-Smirnov tests a
 
 Lucas HW14-1.py: Fitting data describing the temperature in Baltimore MD each day since 1995 to a sinusoidal curve. 
 It is seen that each period lasts approximately 1 year, as expected from a graph that shows temperature vs. time.
-
